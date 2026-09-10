@@ -170,11 +170,8 @@ Make the whole app feel calm and trustworthy in normal conditions, but instantly
 
 legible and urgent when showing active alerts or high-risk states.     Use the logo i provide
 
-This project was built with [Lovable](https://lovable.dev).
 
-## Build with Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/94119aec-a491-424e-94d0-8d95095ca4d2).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: every change made in Lovable is committed straight to this repository.
