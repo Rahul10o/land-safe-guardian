@@ -1,0 +1,4 @@
+- [ ] Build the mobile-first TerraAlert safety app shell and dashboard
+- [ ] Add report, alerts, safety, authority, and profile workflows
+- [ ] Add logo/favicon and route metadata
+- [ ] Verify desktop/mobile rendering and clear build errors
